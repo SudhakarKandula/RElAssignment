@@ -1,0 +1,23 @@
+.bodm {
+    height: 100vh;
+    width: 100vw;
+    background-color: #090826;
+}
+.bodm h1{
+    color: white;
+}
+.bodm ol{
+    text-align: center;
+}
+
+.bodm ol li h2{
+    color: white;
+}
+
+.bodm ol li p{
+    color: orange;
+}
+.an{
+    color:orange;
+    text-align: center;
+}
